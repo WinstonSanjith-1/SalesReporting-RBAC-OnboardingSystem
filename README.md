@@ -147,7 +147,7 @@ Role Creation → Permission Assignment → Access Validation → Audit Logging
 ---
 
 ## Project Document
-📎 BusinessAnalystCaseStudy.pdf
+📎 RBAC-OnboardingSystem.pdf
 
 ---
 
